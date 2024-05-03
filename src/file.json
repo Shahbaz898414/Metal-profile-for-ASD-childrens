@@ -1,0 +1,153 @@
+{
+  "fruits": {
+    "mango": {
+      "Lead": 0.013,
+      "calcium": 0,
+      "cobalt": 0,
+      "chromium": 0.08,
+      "copper": 0.85,
+      "iron": 0,
+      "arsenic": 0,
+      "nickel": 0,
+      "zinc": 0.53,
+      "mercury": 0,
+      "Mn": 0
+    },
+    "grapes": {
+      "Lead": 0,
+      "calcium": 0,
+      "cobalt": 0,
+      "chromium": 0.203,
+      "copper": 0.21,
+      "iron": 0.204,
+      "arsenic": 0,
+      "nickel": 0.006,
+      "zinc": 0,
+      "mercury": 0,
+      "Mn": 0.18
+    },
+    "banana": {
+      "Lead": 0.003,
+      "calcium": 0,
+      "cobalt": 0,
+      "chromium": 0.317,
+      "copper": 0.946,
+      "iron": 0,
+      "arsenic": 0,
+      "nickel": 0.037,
+      "zinc": 0.235,
+      "mercury": 0,
+      "Mn": 10.47
+    }
+  },
+  "vegetables": {
+    "lettuce": {
+      "Lead": 2.22,
+      "calcium": 152,
+      "cobalt": 0,
+      "chromium": 0,
+      "copper": 11.8,
+      "iron": 0,
+      "arsenic": 0,
+      "nickel": 0,
+      "zinc": 0,
+      "mercury": 0,
+      "Mn": 0
+    },
+    "tomato": {
+      "Lead": 0.75,
+      "calcium": 0.1,
+      "cobalt": 0.2,
+      "chromium": 0,
+      "copper": 46,
+      "iron": 33.5,
+      "arsenic": 0,
+      "nickel": 0,
+      "zinc": 9.5,
+      "mercury": 0,
+      "Mn": 0
+    },
+    "onion": {
+      "Lead": 0.18,
+      "calcium": 0.04,
+      "cobalt": 0,
+      "chromium": 0,
+      "copper": 12.5,
+      "iron": 0,
+      "arsenic": 0,
+      "nickel": 0,
+      "zinc": 47,
+      "mercury": 0,
+      "Mn": 0
+    }
+  },
+  "grains": {
+    "wheat": {
+      "Lead": 0.073,
+      "calcium": 0.029,
+      "cobalt": 0,
+      "chromium": 0,
+      "copper": 0.237,
+      "iron": 0.718,
+      "arsenic": 0,
+      "nickel": 0.034,
+      "zinc": 0.057,
+      "mercury": 0,
+      "Mn": 0.515
+    },
+    "rice": {
+      "Lead": 4.3,
+      "calcium": 7,
+      "cobalt": 0,
+      "chromium": 0,
+      "copper": 0,
+      "iron": 0,
+      "arsenic": 0,
+      "nickel": 0,
+      "zinc": 1.21,
+      "mercury": 0,
+      "Mn": 7.99
+    }
+  },
+  "dairy_products": {
+    "milk": {
+      "Lead": 0.1016,
+      "calcium": 0.07,
+      "cobalt": 0,
+      "chromium": 0.07,
+      "copper": 1.1044,
+      "iron": 0,
+      "arsenic": 0.12,
+      "nickel": 0,
+      "zinc": 0,
+      "mercury": 0,
+      "Mn": 0
+    },
+    "dairy": {
+      "Lead": 0.751,
+      "calcium": 0.179,
+      "cobalt": 0,
+      "chromium": 0,
+      "copper": 0,
+      "iron": 0,
+      "arsenic": 0,
+      "nickel": 0,
+      "zinc": 18.316,
+      "mercury": 0,
+      "Mn": 0
+    },
+    "chicken": {
+      "Lead": 0.0718,
+      "calcium": 0.00642,
+      "cobalt": 0,
+      "chromium": 0.00845,
+      "copper": 0.51752,
+      "iron": 11.942,
+      "arsenic": 0.03542,
+      "nickel": 0.14472,
+      "zinc": 7.587,
+      "mercury": 0.00141,
+      "Mn": 0.26878
+    }
+  }
+}
