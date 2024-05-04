@@ -84,3 +84,12 @@ const Image2 = () => {
 };
 
 export default Image2;
+
+
+/*
+
+
+THQ= CDI/RfD = (Cveg*IRveg*EFveg*ED*10^-3)/(BW*AT*Rfd)
+
+
+*/
